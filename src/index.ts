@@ -147,6 +147,8 @@ class OpenAIS3Image {
   }
 }
 
+export default OpenAIS3Image
+
 // const test = async () => {
 //   const openAIS3Image = new OpenAIS3Image({
 //     awsRegion: process.env.AWS_REGION || 'ap-south-1',
